@@ -1,4 +1,4 @@
-package com.dsa.recursion;
+package com.dsa.recursion.problems;
 
 import java.util.Arrays;
 
@@ -18,7 +18,7 @@ Here,   [48]
         [1, 2, 3, 4, 5] -->(1 + 2 = 3, 2 + 3 = 5, 3 + 4 = 7, 4 + 5 = 9)
 
  */
-public class _06_SumOfTriangle {
+public class GOG_01_SumOfTriangle {
 	
 	static void sumOfArray(int arr[]) {
 		if(arr.length<1)

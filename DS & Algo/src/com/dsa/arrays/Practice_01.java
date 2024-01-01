@@ -11,7 +11,7 @@ public class Practice_01 {
 		
 		
 		System.out.println(Arrays.toString(copyarray(array)));
-		System.out.println(Arrays.toString(array));
+//		System.out.println(Arrays.toString(array));
 	}
 	private static int[] copyarray(int[] array) {
 		int[] array2=array.clone();

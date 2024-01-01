@@ -1,4 +1,4 @@
-package com.dsa.arrays;
+package com.dsa.arrays.problems;
 
 import java.util.Arrays;
 

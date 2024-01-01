@@ -21,7 +21,9 @@ public class _04_BinarySearchRecursion {
 	}
 	
 	static boolean binarySearchHelper(int arr[], int key, int start, int end) {
-		int mid=(start+end)/2;
+//		int mid=(start+end)/2;
+		
+		int mid=start + (end-start)/2;
 		
 		if(arr[mid]==key)
 			return true;

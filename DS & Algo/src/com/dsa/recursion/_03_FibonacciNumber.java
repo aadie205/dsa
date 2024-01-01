@@ -3,7 +3,7 @@ package com.dsa.recursion;
 public class _03_FibonacciNumber {
 
 	public static void main(String[] args) {
-		System.out.println(fibo(6));
+		System.out.println(fibo(2));
 
 	}
 	

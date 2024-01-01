@@ -1,4 +1,4 @@
-package com.dsa.arrays;
+package com.dsa.arrays.problems;
 
 //LeetCode941
 public class LeetCodeArrays06 {

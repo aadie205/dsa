@@ -31,6 +31,8 @@ public class _01_EculidsAlgo {
 			n=r;
 			return findGCD(m, n);	
 		}
+		
+//		return findGCD(n, m%n);
 			
 	}
 
